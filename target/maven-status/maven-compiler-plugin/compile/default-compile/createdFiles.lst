@@ -1,0 +1,6 @@
+sv\edu\udb\www\rest\controller\UserServlet.class
+sv\edu\udb\www\rest\model\UserDAO.class
+sv\edu\udb\www\rest\model\User.class
+sv\edu\udb\www\rest\model\Credential.class
+sv\edu\udb\www\rest\model\CredentialDAO.class
+sv\edu\udb\www\rest\resources\DatabaseConnection.class
